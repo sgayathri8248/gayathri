@@ -1,0 +1,31 @@
+
+1. Display UnitPrice which is the maximum in the store
+2. Display the total number of items in the store.
+//Using Group By in Select Statement
+3. Display customerId and total number of orders placed by each customer.
+4. Display ItemCategory and average UnitPrice in each item category.
+5. Display customerId of customers who have placed more than 1 order.
+6. Display ItemCategory of items which has the minimum unit price more than INR 10,000.
+7. Display ItemCategory, total number of items for "Television" and "Refrigerator" if the total number of items exceeds 
+5. Display the results in the descending order of total number of items
+
+Non-Correlated Subqueries
+
+1. Display EmployeeName, Salary of employees whose salary is more than the average salary of the company.
+2. Display EmployeeName, Salary of employee(s) who is getting the lowest salary in the company.
+3. Display EmployeeName of employees who are working in project ‘P1’.
+4. Display ProjectName of projects which has more than 2 employees (Exclude rows if end date is not null).
+5. Display EmployeeName of Managers who have more than three team members.
+6. Display the second maximum salary of the company.
+7. Display the ProjectName of projects which currently does not have any employees.
+
+gayathri
+
+Correlated Subqueries
+
+1. Display EmployeeName, Salary of employees whose salary is more than the average salary of the department they belong to.
+2. Display EmployeeName of employees whose manager is younger than the employee.
+
+
+
+
